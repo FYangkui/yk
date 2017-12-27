@@ -14,7 +14,7 @@ package Hw20171227;
  * @version
  * @see
  */
-public class Cattest {
+public class CatTest {
 
     public static void main(String[] args) {
 

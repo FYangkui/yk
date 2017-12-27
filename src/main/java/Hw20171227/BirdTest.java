@@ -14,7 +14,7 @@ package Hw20171227;
  * @version
  * @see
  */
-public class Birdtest {
+public class BirdTest {
 
     public static void main(String[] args) {
         Bird bird=new Bird("布谷鸟", 1, '雄');

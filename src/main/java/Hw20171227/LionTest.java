@@ -14,7 +14,7 @@ package Hw20171227;
  * @version
  * @see
  */
-public class Liontest {
+public class LionTest {
 
     public static void main(String[] args) {
         Lion lion=new Lion();

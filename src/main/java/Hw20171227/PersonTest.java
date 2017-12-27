@@ -14,7 +14,7 @@ package Hw20171227;
  * @version
  * @see
  */
-public class Persontest {
+public class PersonTest {
 
     public static void main(String[] args) {
         Person per = new Person();

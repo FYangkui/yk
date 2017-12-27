@@ -14,7 +14,7 @@ package Hw20171227;
  * @version
  * @see
  */
-public class Dogtest {
+public class DogTest {
 
     public static void main(String[] args) {
         Dog dog=new Dog();
